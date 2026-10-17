@@ -1,0 +1,19 @@
+# RQ1. Do flagged and unflagged instances have different resolution rates after accounting for difficulty? 
+• Independent variable: Exposure-screening status (flagged/unflagged). 
+• Dependent variable: Resolution rate (%). 
+• Analysis: Compare resolution rates between flagged and unflagged instances within difficulty 
+groups, combining the two highest-duration bands. 
+
+# RQ2. Does removing flagged instances produce a larger resolution-rate decrease than removing the same 
+number of unflagged instances matched by difficulty? 
+• Independent variable: Removal condition (flagged/matched unflagged). 
+• Dependent variable: Excess resolution-rate decrease (percentage points). 
+• Analysis: Compare the observed resolution-rate decrease after flagged-instance removal with the 
+mean decrease from repeated difficulty-matched removals of the same number of unflagged 
+instances. Report excess decrease, relative decrease, and uncertainty. 
+• Hypothesis: Flagged-instance removal produces a larger decrease. 
+
+# RQ3. Does excess resolution-rate decrease differ across difficulty groups? 
+• Independent variable: Difficulty group. 
+• Dependent variable: Excess resolution-rate decrease (percentage points). 
+• Analysis: Compare group-specific estimates and uncertainty, interpreting small groups cautiously. 
